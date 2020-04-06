@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lesson05-handle-event/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/lesson05-handle-event/static/js/main.85515ccb.chunk.js",
+    "main.js.map": "/lesson05-handle-event/static/js/main.85515ccb.chunk.js.map",
+    "runtime-main.js": "/lesson05-handle-event/static/js/runtime-main.7672f986.js",
+    "runtime-main.js.map": "/lesson05-handle-event/static/js/runtime-main.7672f986.js.map",
+    "static/js/2.d5cd99fa.chunk.js": "/lesson05-handle-event/static/js/2.d5cd99fa.chunk.js",
+    "static/js/2.d5cd99fa.chunk.js.map": "/lesson05-handle-event/static/js/2.d5cd99fa.chunk.js.map",
+    "index.html": "/lesson05-handle-event/index.html",
+    "precache-manifest.949d7cbd9c380536f712187abd2cb68d.js": "/lesson05-handle-event/precache-manifest.949d7cbd9c380536f712187abd2cb68d.js",
+    "service-worker.js": "/lesson05-handle-event/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/lesson05-handle-event/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d5cd99fa.chunk.js.LICENSE.txt": "/lesson05-handle-event/static/js/2.d5cd99fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7672f986.js",
+    "static/js/2.d5cd99fa.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.85515ccb.chunk.js"
+  ]
+}
